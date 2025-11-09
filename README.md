@@ -10,12 +10,19 @@ This project is a web interface for visualizing and processing point cloud data 
 - Rotate visualization
 - Lock polar/azimuthal angles
 - Download processed PCD files
+- RGB color support for point clouds
 
 ## Screenshots
 
 <!-- Images will be added here -->
+
+### User Interface Screenshot
 ![PCD Viewer screenshot](docs/image.png)
 
+### Controls and Filtering Options
+![PCD Viewer Controls GIF](docs/pcd_tools.gif)
+
+### Application Showcase
 ![PCD Viewer showcase GIF](docs/pcd-viewer-showcase.gif)
 
 
