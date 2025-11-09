@@ -31,11 +31,15 @@ This project is a web interface for visualizing and processing point cloud data 
    ```
 3. Open the `index.html` file using a web server. For example, you can use Python's simple HTTP server:
    ```bash
-   python -m http.server
+   python -m http.server 8000
    ```
    Then, go to `http://localhost:8000` in your browser.
 
 ## Usage
 
 Once the application is loaded, you can load your PCD files and interact with the features mentioned above.
+
+## Acknowledgements
+
+This project is built upon and extends the work from [Fabulani/pcd-viewer](https://github.com/Fabulani/pcd-viewer). Additionally, this project has benefited from the assistance of GPT models for various aspects of development and documentation.
 
