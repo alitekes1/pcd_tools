@@ -1,0 +1,6 @@
+# Ignore the pcd folder (don't add point cloud data to the repo)
+/pcd/
+
+# Common OS/editor noise (optional)
+.DS_Store
+thumbs.db
